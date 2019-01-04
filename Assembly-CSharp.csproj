@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CandyDestroyer.cs" />
+    <Compile Include="Assets\Scripts\CandyHolder.cs" />
     <Compile Include="Assets\Scripts\Pusher.cs" />
     <Compile Include="Assets\Scripts\Shooter.cs" />
     <Reference Include="UnityEditor.StandardEvents">
